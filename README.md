@@ -46,4 +46,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Improvement | Score  
 |-------|-----------|------|-------------|--------
-|       |      |           |      |
+| 758906 | [rauljavierre](https://github.com/rauljavierre) | [rauljavierre/lab6-microservices](https://github.com/rauljavierre/lab6-microservices/tree/test) | [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/) |
