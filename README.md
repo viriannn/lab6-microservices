@@ -33,17 +33,24 @@ The above must be documented in a brief report (`report.md`) with screenshots de
 
 ## Secondary goal (:gift:)
 
-Proposed:
+In progress:
 
-* [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/).
-* [API gateway for web and registration](https://spring.io/guides/gs/routing-and-filtering/).
-* [Centralized configuration for all microservices](https://spring.io/guides/gs/routing-and-filtering/).
 * [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
+* [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/).
+
+Proposed:
+
+* [API gateway for web and registration](https://spring.io/guides/gs/routing-and-filtering/).
+* [Centralized configuration for all microservices](https://spring.io/guides/gs/routing-and-filtering/).
 
 Manifest your intention first by a PR updating this `README.md` with your goal.
 If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Improvement | Score  
 |-------|-----------|------|-------------|--------
-| 758906 | [rauljavierre](https://github.com/rauljavierre) | [rauljavierre/lab6-microservices](https://github.com/rauljavierre/lab6-microservices/tree/test) | [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/) |
+| 760739 | [Alberto Calvo](https://github.com/AlbertoCalvoRubio) | [AlbertoCalvoRubio/lab6-microservices](https://github.com/AlbertoCalvoRubio/lab6-microservices/tree/test) | [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker) | 
+| 739202 | [Luis Garcia](https://github.com/luisgg98) | [luisgg98/lab6-microservices](https://github.com/luisgg98/lab6-microservices/tree/test) | [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/) |
+| 760704 |[Álvaro García](https://github.com/Alvarogd6)|[Alvarogd6/lab6-microservices](https://github.com/Alvarogd6/lab6-microservices/tree/test)| |
+| 758803 | [Daniel González](https://github.com/Uncastellum) | [Uncastellum/lab6-microservices](https://github.com/Uncastellum/lab6-microservices/tree/test) |    |    | 
+| 758906 | [rauljavierre](https://github.com/rauljavierre) | [rauljavierre/lab6-microservices](https://github.com/rauljavierre/lab6-microservices/tree/test) | [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/) |
