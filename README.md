@@ -35,10 +35,10 @@ The above must be documented in a brief report (`report.md`) with screenshots de
 
 Done:
 * [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://github.com/rauljavierre/lab6-microservices/tree/test) Raul Javierre has learned that wrapping a command with a circuit-breaker (e.g. Hystrix) is very to do today. :gift:
+* [Dockerize the three services](https://github.com/UNIZAR-30246-WebEngineering/lab6-microservices/pull/9). Alberto Calvo provides a detailed account of how to build Docker images using the Spring Docker plugin :gift:
 
 In progress:
 
-* [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
 
 Proposed:
