@@ -35,10 +35,10 @@ The above must be documented in a brief report (`report.md`) with screenshots de
 
 Done:
 * [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://github.com/rauljavierre/lab6-microservices/tree/test) Raul Javierre has learned that wrapping a command with a circuit-breaker (e.g. Hystrix) is very to do today. :gift:
+* [Dockerize the three services](https://github.com/UNIZAR-30246-WebEngineering/lab6-microservices/pull/9). Alberto Calvo provides a detailed account of how to build Docker images using the Spring Docker plugin :gift:
 
 In progress:
 
-* [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
 
 Proposed:
@@ -51,7 +51,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 |NIA    | User name | Repo | Improvement | Score  
 |-------|-----------|------|-------------|--------
-| 760739 | [Alberto Calvo](https://github.com/AlbertoCalvoRubio) | [AlbertoCalvoRubio/lab6-microservices](https://github.com/AlbertoCalvoRubio/lab6-microservices/tree/test) | [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker) | 
+| 760739 | [Alberto Calvo](https://github.com/AlbertoCalvoRubio) | [AlbertoCalvoRubio/lab6-microservices](https://github.com/AlbertoCalvoRubio/lab6-microservices/tree/test) | [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker) | :gift:
 | 739202 | [Luis Garcia](https://github.com/luisgg98) | [luisgg98/lab6-microservices](https://github.com/luisgg98/lab6-microservices/tree/test) | [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/) |
 | 760704 | [Álvaro García](https://github.com/Alvarogd6)|[Alvarogd6/lab6-microservices](https://github.com/Alvarogd6/lab6-microservices/tree/test)| |
 | 758803 | [Daniel González](https://github.com/Uncastellum) | [Uncastellum/lab6-microservices](https://github.com/Uncastellum/lab6-microservices/tree/test) |    |    | 
