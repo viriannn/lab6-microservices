@@ -57,3 +57,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 758803 | [Daniel González](https://github.com/Uncastellum) | [Uncastellum/lab6-microservices](https://github.com/Uncastellum/lab6-microservices/tree/test) |    |    | 
 | 758906 | [rauljavierre](https://github.com/rauljavierre) | [rauljavierre/lab6-microservices](https://github.com/rauljavierre/lab6-microservices/tree/test) | [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/) | :gift: |
 | 757153 | [Fran-sw](https://github.com/Fran-sw) |[lab6-microservices](https://github.com/Fran-sw/lab6-microservices/tree/test)     |        | 
+| 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab6-microservices](https://github.com/TheRealFreeman/lab6-microservices/tree/test) | |
