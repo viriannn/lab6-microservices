@@ -59,3 +59,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 757153 | [Fran-sw](https://github.com/Fran-sw) |[lab6-microservices](https://github.com/Fran-sw/lab6-microservices/tree/test)     |        | 
 | 766685 | [Enrique Ruiz](https://github.com/TheRealFreeman) | [TheRealFreeman/lab6-microservices](https://github.com/TheRealFreeman/lab6-microservices/tree/test) | |
 | 758267 | [Pedro Allué](https://github.com/piter1902) | [piter1902/lab6-microservices](https://github.com/piter1902/lab6-microservices/tree/test) |    |
+| 758635 | [Daniel Huici Meseguer](https://github.com/Kifixo) | [Kifixo/lab6-microservices](https://github.com/Kifixo/Kifixo/tree/test) |    |
