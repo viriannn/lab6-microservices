@@ -59,3 +59,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 761319 | [Marcos Nuez](https://github.com/Markles01) | [Markles01/lab6-microservices](https://github.com/Markles01/lab6-microservices/tree/test) | |
 | 758635 | [Daniel Huici Meseguer](https://github.com/Kifixo) | [Kifixo/lab6-microservices](https://github.com/Kifixo/lab6-microservices/tree/test) |    |
 | 738233 | [Sergio Torres](https://github.com/cul3bro) | [cul3bro/lab6-microservices](https://github.com/cul3bro/lab6-microservices/tree/test) |    |
+| 757715 | [Hayk Kocharyan](https://github.com/hayk99) | [hayk99/lab6-microservices](https://github.com/hayk99/lab6-microservices/tree/test) |    |
