@@ -60,3 +60,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 758635 | [Daniel Huici Meseguer](https://github.com/Kifixo) | [Kifixo/lab6-microservices](https://github.com/Kifixo/lab6-microservices/tree/test) |    |
 | 738233 | [Sergio Torres](https://github.com/cul3bro) | [cul3bro/lab6-microservices](https://github.com/cul3bro/lab6-microservices/tree/test) |    |
 | 756123 | [Rogelio Lacruz](https://github.com/RogorStuff) | [RogorStuff/lab6-microservices](https://github.com/RogorStuff/lab6-microservices/tree/test) |    |
+| 761754 | [David Alloza](https://github.com/david-AT) | [david-AT/lab6-microservices](https://github.com/david-AT/lab6-microservices/tree/test) |    |
